@@ -27,7 +27,7 @@ jobs:
         with:
           ref: main
 
-      - name: merge
+      - name: merge-best
         shell: bash
         run: |
           # 获取链接的文本内容，并合并成一个文件
@@ -39,6 +39,21 @@ jobs:
           sort -u best_temp.txt | uniq | sed '/^$/d' > best.txt
           # 删除临时文件
           rm best_temp.txt
+        env:
+          GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
+
+      - name: merge-all
+        shell: bash
+        run: |
+          # 获取链接的文本内容，并合并成一个文件
+          curl -s https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt \
+                  https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt \
+                  https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt \
+                  | cat > all_temp.txt
+          # 对文件进行去重和排序，并去除空行
+          sort -u best_temp.txt | uniq | sed '/^$/d' > all.txt
+          # 删除临时文件
+          rm all_temp.txt
         env:
           GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
 

@@ -8,10 +8,10 @@
 
 该项目受到以下公共 Tracker 项目的帮助，感谢~
 
-* [https://.github.com/ngosang/trackerslist/master/trackers_best.txt](https://.github.com/ngosang/trackerslist/master/trackers_best.txt)
+* [https://.github.com/ngosang/trackerslist/](https://.github.com/ngosang/trackerslist/)
 
-* [https://github.com/DeSireFire/animeTrackerList/master/AT_best.txt](https://github.com/DeSireFire/animeTrackerList/master/AT_best.txt)
+* [https://github.com/DeSireFire/animeTrackerList/](https://github.com/DeSireFire/animeTrackerList/)
 
-* [https://github.com/XIU2/TrackersListCollection/master/best.txt](https://github.com/XIU2/TrackersListCollection/master/best.txt)
+* [https://github.com/XIU2/TrackersListCollection/](https://github.com/XIU2/TrackersListCollection/)
 
 ****
