@@ -51,7 +51,7 @@ jobs:
                   https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt \
                   | cat > all_temp.txt
           # 对文件进行去重和排序，并去除空行
-          sort -u best_temp.txt | uniq | sed '/^$/d' > all.txt
+          sort -u all_temp.txt | uniq | sed '/^$/d' > all.txt
           # 删除临时文件
           rm all_temp.txt
         env:
