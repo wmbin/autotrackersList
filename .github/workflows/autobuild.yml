@@ -39,8 +39,6 @@ jobs:
           sort -u best_temp.txt | uniq | sed '/^$/d' > best.txt
           # 删除临时文件
           rm best_temp.txt
-        env:
-          GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
 
       - name: merge-all
         shell: bash
@@ -54,8 +52,6 @@ jobs:
           sort -u all_temp.txt | uniq | sed '/^$/d' > all.txt
           # 删除临时文件
           rm all_temp.txt
-        env:
-          GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
 
       - name: Commit
         run: |
