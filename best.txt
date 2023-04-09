@@ -8,7 +8,6 @@ http://open.acgnxtracker.com:80/announce
 http://p2p.0g.cx:6969/announce
 http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
-http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
@@ -20,7 +19,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
@@ -70,10 +68,8 @@ udp://linfan.moe:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
-udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
-udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
@@ -88,6 +84,7 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://thagoat.rocks:6969/announce
 udp://thetracker.org:80/announce
+udp://thouvenin.cloud:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.altrosky.nl:6969/announce
@@ -103,7 +100,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.leech.ie:1337/announce
-udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
