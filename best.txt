@@ -20,7 +20,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
@@ -61,6 +60,7 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://laze.cc:6969/announce
