@@ -253,6 +253,7 @@ http://fe.dealclub.de:6969/announce
 http://finbytes.org/announce.php
 http://finbytes.org:80/announce.php
 http://fosstorrents.com:6969/announce
+http://frp.v2fy.com:8000/announce
 http://ftp.pet:2710/announce
 http://ftp.pet:6969/announce
 http://ftp.pet:7777/announce
@@ -336,6 +337,7 @@ http://retracker.ohys.net/announce
 http://retracker.ohys.net:80/announce
 http://retracker.spark-rostov.ru/announce
 http://retracker.spark-rostov.ru:80/announce
+http://rotracker.ohys.net/announce
 http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net/announce
 http://rstracker.ohys.net:80/announce
@@ -694,6 +696,7 @@ https://tracker.parrotsec.org:443/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
+https://tracker.renfei.net/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
 https://tracker.shittyurl.org/announce
@@ -899,7 +902,6 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.nullrouted.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
