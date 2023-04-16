@@ -57,6 +57,7 @@ http://185.148.3.231/announce
 http://185.148.3.231:80/announce
 http://185.185.40.51:6969/announce
 http://185.185.40.95:6969/announce
+http://185.197.195.20:1919/announce
 http://185.216.178.49:6969/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
@@ -778,7 +779,6 @@ udp://bananas.space:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
-udp://boysbitte.be:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
