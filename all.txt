@@ -387,6 +387,7 @@ http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
+http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
