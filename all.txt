@@ -135,6 +135,7 @@ http://62.182.85.138:666/announce
 http://65.108.2.176:2710/announce
 http://75.127.14.224:2710/announce
 http://83.31.190.19:6969/announce
+http://83.31.191.97:6969/announce
 http://83.31.199.157:6969/announce
 http://83.31.209.3:6969/announce
 http://83.31.211.243:6969/announce
@@ -387,7 +388,6 @@ http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
-http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
