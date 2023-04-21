@@ -5,11 +5,11 @@ http://bt.okmp3.ru:2710/announce
 http://dn42.smrsh.net:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
+http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
-http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
@@ -36,7 +36,6 @@ https://tr.abiir.top/announce
 https://tr.abir.ga/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
-https://tr.ready4.icu:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
@@ -61,6 +60,7 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://laze.cc:6969/announce
@@ -71,7 +71,6 @@ udp://movies.zsw.ca:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
-udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
@@ -103,6 +102,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.leech.ie:1337/announce
+udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
