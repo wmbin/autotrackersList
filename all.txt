@@ -48,6 +48,7 @@ http://171.104.111.250:6969/announce
 http://171.104.111.30:6969/announce
 http://171.104.111.83:6969/announce
 http://171.104.111.89:6969/announce
+http://171.104.226.15:6969/announce
 http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.87:6969/announce
@@ -142,6 +143,7 @@ http://83.31.209.3:6969/announce
 http://83.31.211.243:6969/announce
 http://83.31.212.134:6969/announce
 http://83.31.216.220:6969/announce
+http://83.31.219.73:6969/announce
 http://83.31.33.73:6969/announce
 http://83.6.208.20:6969/announce
 http://83.6.209.31:6969/announce
@@ -810,6 +812,7 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
+udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu/announce
@@ -820,6 +823,7 @@ udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
 udp://linfan.moe:6969/announce
+udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
