@@ -2,12 +2,12 @@ http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
 http://bt.okmp3.ru:2710/announce
 http://nyaa.tracker.wf:7777/announce
-http://open.acgnxtracker.com:80/announce
 http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
+http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
@@ -16,6 +16,7 @@ http://tracker.electro-torrent.pl/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
+http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.renfei.net:8080/announce
@@ -58,6 +59,7 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://laze.cc:6969/announce
@@ -109,6 +111,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
