@@ -20,6 +20,7 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
@@ -59,7 +60,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://explodie.org:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://laze.cc:6969/announce
@@ -71,6 +71,7 @@ udp://new-line.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
+udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
@@ -111,7 +112,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.theoks.net:6969/announce
-udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
