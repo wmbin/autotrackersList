@@ -553,6 +553,7 @@ http://wepzone.net:6969/announce
 http://widemus.de:6969/announce
 http://www.all4nothin.net/announce.php
 http://www.all4nothin.net:80/announce.php
+http://www.bit-hdtv.com:2710/announce
 http://www.genesis-sp.org:2710/announce
 http://www.legittorrents.info/announce.php
 http://www.legittorrents.info:80/announce.php
@@ -621,6 +622,7 @@ https://t.zerg.pw/announce
 https://t1.hloli.org/announce
 https://t1.hloli.org:443/announce
 https://t1.tokhmi.xyz/announce
+https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent-tracker.hama3.net:443/announce
 https://torrent.ubuntu.com/announce
