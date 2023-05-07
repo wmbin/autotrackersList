@@ -6,7 +6,6 @@ http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
-http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
@@ -25,6 +24,7 @@ http://tracker.tfile.co:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
+http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
@@ -56,7 +56,6 @@ udp://acxx.de:6969/announce
 udp://aegir.sexy:6969/announce
 udp://astrr.ru:6969/announce
 udp://bedro.cloud:6969/announce
-udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
