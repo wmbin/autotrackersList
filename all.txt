@@ -285,6 +285,7 @@ http://jp.moeweb.pw:6969/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
 http://li1406-230.members.linode.com:6969/announce
+http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce.php
 http://mediaclub.tv/announce

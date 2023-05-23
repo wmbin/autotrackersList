@@ -3,12 +3,12 @@ http://1337.abcvg.info:80/announce
 http://bt.okmp3.ru:2710/announce
 http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.acgnxtracker.com:80/announce
 http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://share.camoe.cn:8080/announce
 http://shogiroom.com:6969/announce
 http://t.acg.rip:6699/announce
-http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
@@ -31,6 +31,7 @@ http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
+https://t1.hloli.org:443/announce
 https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abir.ga/announce
@@ -107,7 +108,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.theoks.net:6969/announce
-udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker1.bt.moack.co.kr:80/announce
