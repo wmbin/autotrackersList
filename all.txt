@@ -242,6 +242,7 @@ http://btx.anifilm.tv:80/announce.php
 http://buny.uk:6969/announce
 http://bz.tracker.bz/announce
 http://bz.tracker.bz:80/announce
+http://canardscitrons.nohost.me:6969/announce
 http://carbon-bonsai-621.appspot.com/announce
 http://carbon-bonsai-621.appspot.com:80/announce
 http://chouchou.top:8080/announce
@@ -848,6 +849,8 @@ udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
+udp://astrra.space:6969/announce
+udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
@@ -863,10 +866,13 @@ udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carr.codes:6969/announce
 udp://chouchou.top:8080/announce
+udp://city21.pk:6969/announce
 udp://concen.org:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
+udp://dex.email:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://download.nerocloud.me:6969/announce
@@ -885,6 +891,7 @@ udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://inferno.demonoid.is:3391/announce
+udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -895,10 +902,10 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://linfan.moe:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
+udp://market-re.quest:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
@@ -909,6 +916,7 @@ udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
+udp://ns557939.ip-54-39-48.net:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
@@ -929,8 +937,10 @@ udp://p4p.arenabg.com:1337/announce
 udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
+udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -947,7 +957,9 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
+udp://static.110.82.76.144.clients.your-server.de:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
+udp://su-data.com:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
