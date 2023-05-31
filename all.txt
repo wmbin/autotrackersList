@@ -245,6 +245,7 @@ http://bz.tracker.bz:80/announce
 http://canardscitrons.nohost.me:6969/announce
 http://carbon-bonsai-621.appspot.com/announce
 http://carbon-bonsai-621.appspot.com:80/announce
+http://ch3oh.ru:6969/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
 http://concen.org:6969/announce
@@ -287,6 +288,7 @@ http://jp.moeweb.pw:6969/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
 http://li1406-230.members.linode.com:6969/announce
+http://li2021-95.members.linode.com:6969/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce.php
 http://mediaclub.tv/announce
@@ -370,6 +372,7 @@ http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com/announce
 http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
+http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
 http://t1.pow7.com/announce
 http://t1.pow7.com:80/announce
@@ -555,6 +558,7 @@ http://trackme.theom.nz:80/announce
 http://trun.tom.ru/announce
 http://trun.tom.ru:80/announce
 http://uatracker.net/announce.php
+http://unknownsite.de:6969/announce
 http://uraniumhexafluori.de:1919/announce
 http://v6-tracker.0g.cx:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
@@ -562,6 +566,7 @@ http://vps02.net.orel.ru/announce
 http://vps02.net.orel.ru:80/announce
 http://web.open-tracker.cf:6969/announce
 http://wepzone.net:6969/announce
+http://wg.mortis.me:6969/announce
 http://widemus.de:6969/announce
 http://www.all4nothin.net/announce.php
 http://www.all4nothin.net:80/announce.php
@@ -772,6 +777,7 @@ udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
+udp://107.182.30.76.16clouds.com:6969/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://119.28.71.45:8080/announce
@@ -863,6 +869,7 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
+udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carr.codes:6969/announce
 udp://chouchou.top:8080/announce
@@ -904,6 +911,7 @@ udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
+udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
@@ -1037,6 +1045,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://trackerb.jonaslsa.com:6969/announce
+udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
