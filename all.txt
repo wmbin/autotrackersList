@@ -470,6 +470,7 @@ http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.iro.moe/announce
 http://tracker.istole.it/announce
+http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
 http://tracker.lelux.fi/announce
 http://tracker.lelux.fi:80/announce
@@ -897,7 +898,6 @@ udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
-udp://fleira.no:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
@@ -942,6 +942,7 @@ udp://open.stealth.si/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
+udp://open.u-p.pw:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
