@@ -21,7 +21,6 @@ http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
-http://tracker.openbittorrent.com:80/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.tfile.co:80/announce
 http://tracker3.ctix.cn:8080/announce
@@ -39,12 +38,14 @@ https://tr.abiir.top/announce
 https://tr.abir.ga/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
+https://tr.ready4.icu:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.jiesen.life:8443/announce
+https://tracker.kawaii.id:443/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.cf/announce
 https://tracker.lilithraws.cf:443/announce
@@ -52,7 +53,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc/announce.php
-https://tracker.moeblog.cn:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
@@ -66,11 +66,11 @@ udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
+udp://axell24.ru:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://city21.pk:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://dex.email:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
@@ -95,7 +95,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
-udp://open.u-p.pw:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
@@ -116,6 +115,8 @@ udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker.0x7c0.com:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.ccp.ovh:6969/announce
@@ -127,12 +128,14 @@ udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.ocnix.net:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker1.bt.moack.co.kr:80/announce
