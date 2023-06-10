@@ -282,6 +282,7 @@ http://houniao.ddns.net:8888/announce
 http://hzzwly.gq:6969/announce
 http://i.bandito.org/announce.php
 http://incine.ru:6969/announce
+http://ipv4.tracker.harry.lu/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
@@ -702,7 +703,6 @@ https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
-https://tracker.kawaii.id:443/announce
 https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lelux.fi/announce
@@ -887,7 +887,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
-udp://dex.email:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://download.nerocloud.me:6969/announce
@@ -944,6 +943,7 @@ udp://open.stealth.si/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
+udp://open.u-p.pw:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
@@ -955,7 +955,6 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -994,7 +993,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
@@ -1011,6 +1009,7 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
