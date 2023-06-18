@@ -1056,6 +1056,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://trackerb.jonaslsa.com:6969/announce
 udp://tsundere.pw:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
