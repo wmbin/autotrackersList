@@ -699,7 +699,6 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.cangku.moe/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top/announce
-https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.cyber-hub.net:443/announce
