@@ -1044,7 +1044,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
-udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
