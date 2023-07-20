@@ -924,7 +924,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
@@ -1044,6 +1043,7 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
