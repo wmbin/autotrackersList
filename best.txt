@@ -5,7 +5,6 @@ http://bt.okmp3.ru:2710/announce
 http://li2021-95.members.linode.com:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
@@ -77,6 +76,7 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
+udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
@@ -88,6 +88,7 @@ udp://private.anonseed.com:6969/announce
 udp://public-tracker.cf:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://sanincode.com:6969/announce
 udp://soundmovie.ru:6969/announce
@@ -102,6 +103,7 @@ udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.ccp.ovh:6969/announce
@@ -110,6 +112,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.sylphix.com:6969/announce
@@ -120,7 +123,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
-udp://tracker2.dler.org:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
