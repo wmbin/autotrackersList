@@ -512,6 +512,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
+http://tracker.netmap.top:6969/announce
 http://tracker.noobsubs.net/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
@@ -666,6 +667,7 @@ https://evening-badlands-6215.herokuapp.com/announce
 https://grifon.info:80/announce
 https://hcbt.pp.ua/announce
 https://inferno.demonoid.is/announce
+https://k.avc.cx:443/announce.php
 https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
 https://nyaa.tracker.wf:7777/announce
 https://open.kickasstracker.com/announce
@@ -959,7 +961,6 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.harry.lu/announce
-udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
@@ -977,7 +978,6 @@ udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
-udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
@@ -1070,6 +1070,7 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.netmap.top:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
