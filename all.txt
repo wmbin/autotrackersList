@@ -954,7 +954,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu/announce
@@ -1105,6 +1104,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
