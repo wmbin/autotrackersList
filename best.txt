@@ -1,17 +1,17 @@
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:80/announce
-http://bt.endpot.com:80/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
+http://open.tracker.ink:6969/announce
 http://retracker.211.ru:80/announce
 http://share.camoe.cn:8080/announce
-http://shubt.net:2710/announce
 http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
+http://tracker.bt4g.com:2095/announce
 http://tracker.electro-torrent.pl/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
@@ -53,7 +53,6 @@ https://trackme.theom.nz:443/announce
 https://www.peckservers.com:9443/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
@@ -79,6 +78,7 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 udp://public-tracker.cf:6969/announce
@@ -98,7 +98,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.moeking.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
