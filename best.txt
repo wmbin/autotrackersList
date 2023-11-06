@@ -4,7 +4,8 @@ http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://p2p.0g.cx:6969/announce
+http://open.tracker.ink:6969/announce
+http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
@@ -15,6 +16,7 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
+http://tracker.mywaifu.best:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.skyts.net:6969/announce
 http://tracker3.ctix.cn:8080/announce
@@ -101,6 +103,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
