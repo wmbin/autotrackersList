@@ -9,7 +9,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
-http://tracker.bt4g.com:2095/announce
 http://tracker.electro-torrent.pl/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
@@ -18,6 +17,7 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.nartlof.com.br:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.rev.pm:6969/announce
@@ -67,7 +67,6 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
-udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
@@ -95,9 +94,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.edkj.club:6969/announce
-udp://tracker.farted.net:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.moeking.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -105,6 +102,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
+udp://tracker.therarbg.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
