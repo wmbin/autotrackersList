@@ -764,6 +764,7 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrreen.xyz:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
@@ -936,7 +937,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 udp://[2a0f:e586:f:f::81]:6969/announce
 udp://aaa.army:8866/announce
-udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
@@ -951,7 +951,6 @@ udp://black-bird.ynh.fr:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
-udp://bt.rer.lol:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
@@ -1046,6 +1045,7 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://thagoat.rocks:6969/announce
@@ -1081,7 +1081,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
