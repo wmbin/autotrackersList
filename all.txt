@@ -214,6 +214,7 @@ http://big-boss-tracker.net/announce.php
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org/announce.php
 http://bithq.org:80/announce.php
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://blackz.ro/announce.php
 http://bluebird-hd.org/announce.php
 http://bluebird-hd.org:80/announce.php
@@ -949,6 +950,7 @@ udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
@@ -979,7 +981,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:1337/announce
@@ -1019,7 +1020,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
@@ -1041,7 +1041,6 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
-udp://sabross.xyz:6969/announce
 udp://sanincode.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://slicie.icon256.com:8000/announce
