@@ -6,12 +6,12 @@ http://bvarf.tracker.sh:2086/announce
 http://ipv6.rer.lol:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
+http://open.tracker.ink:6969/announce
 http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
 http://tk.greedland.net:80/announce
-http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.electro-torrent.pl/announce
@@ -20,7 +20,9 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
@@ -30,7 +32,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://shahidrazi.online:443/announce
-https://t1.hloli.org:443/announce
 https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abir.ga/announce
@@ -54,6 +55,7 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 https://trackme.theom.nz:443/announce
 https://www.peckservers.com:9443/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://bt1.archive.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -79,12 +81,14 @@ udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.lanta.me:2710/announce
 udp://thetracker.org:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.auctor.tv:6969/announce
-udp://tracker.cubonegro.lol:6969/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
@@ -99,8 +103,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker1.bt.moack.co.kr:80/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://www.torrent.eu.org:451/announce
