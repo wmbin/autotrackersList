@@ -20,9 +20,7 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
@@ -32,6 +30,7 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://shahidrazi.online:443/announce
+https://t1.hloli.org:443/announce
 https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abir.ga/announce
@@ -45,6 +44,7 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrreen.xyz:443/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.cf/announce
+https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc/announce.php
@@ -55,7 +55,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 https://trackme.theom.nz:443/announce
 https://www.peckservers.com:9443/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://bt1.archive.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -84,12 +83,10 @@ udp://thetracker.org:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.auctor.tv:6969/announce
-udp://tracker.bittor.pw:1337/announce
-udp://tracker.cyberia.is:6969/announce
+udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.dump.cl:6969/announce
-udp://tracker.edkj.club:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
@@ -97,13 +94,11 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
-udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker2.dler.com:80/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
+udp://tracker2.dler.org:80/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announce
