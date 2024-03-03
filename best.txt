@@ -39,7 +39,6 @@ https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
-https://track3r.site:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
@@ -75,7 +74,6 @@ udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
-udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
@@ -98,6 +96,7 @@ udp://tracker.therarbg.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announce
