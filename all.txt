@@ -382,7 +382,6 @@ http://retracker.joxnet.ru/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.ohys.net/announce
 http://retracker.ohys.net:80/announce
-http://retracker.seven-sky.net:80/announce
 http://retracker.spark-rostov.ru/announce
 http://retracker.spark-rostov.ru:80/announce
 http://rfc5746.mywaifu.best:6969/announce
@@ -1109,6 +1108,7 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
