@@ -408,6 +408,7 @@ http://t.nyaatracker.com/announce
 http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
+http://t1.aag.moe:17715/announce
 http://t1.chfs.ch:6969/announce
 http://t1.pow7.com/announce
 http://t1.pow7.com:80/announce
@@ -568,6 +569,7 @@ http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentbytes.net/announce.php
 http://tracker.torrentbytes.net:80/announce.php
+http://tracker.torrentuje.me:2710/announce
 http://tracker.torrentyorg.pl/announce
 http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com/announce
@@ -984,7 +986,6 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.harry.lu/announce
-udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
