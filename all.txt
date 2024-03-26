@@ -671,6 +671,7 @@ https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.endpot.com/announce
 https://bt.nfshost.com/announce
+https://bt.ptlsp.com:443/announce
 https://carapax.net/announce
 https://carbon-bonsai-621.appspot.com/announce
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -768,7 +769,6 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
-https://tracker.gcrreen.xyz:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
@@ -859,6 +859,7 @@ https://www.wareztorrent.com:443/announce
 https://x7x.up.railway.app/announce
 https://xtremex.herokuapp.com/announce
 https://xtremex.herokuapp.com:443/announce
+https://yolo.liberbear.com:443/announce
 https://zer0day.000webhostapp.com/announce
 udp://10.rarbg.com/announce
 udp://103.122.21.50:6969/announce
@@ -984,6 +985,7 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.tracker.harry.lu/announce
+udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
@@ -1082,7 +1084,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
@@ -1096,7 +1097,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
-udp://tracker.open-data.network:8888/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
