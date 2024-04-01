@@ -671,7 +671,6 @@ https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.endpot.com/announce
 https://bt.nfshost.com/announce
-https://bt.ptlsp.com:443/announce
 https://carapax.net/announce
 https://carbon-bonsai-621.appspot.com/announce
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -736,7 +735,6 @@ https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf:80/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com:443/announce
-https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
@@ -985,6 +983,7 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu/announce
+udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
