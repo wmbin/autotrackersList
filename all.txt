@@ -1025,7 +1025,6 @@ udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
-udp://pirate.t-1.org:1337/announce
 udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
