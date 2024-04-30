@@ -702,7 +702,6 @@ https://seeders-paradise.org/announce
 https://shahidrazi.online:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
-https://t.peer-exchange.download:443/announce
 https://t.quic.ws/announce
 https://t.quic.ws:443/announce
 https://t.zerg.pw/announce
@@ -974,6 +973,7 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
+udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://inferno.demonoid.is:3391/announce
