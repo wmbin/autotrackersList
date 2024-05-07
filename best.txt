@@ -1,4 +1,5 @@
 http://1337.abcvg.info/announce
+http://1337.abcvg.info:80/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -40,12 +41,13 @@ https://tracker.lilithraws.cf/announce
 https://tracker.loligirl.cn/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc/announce.php
-https://tracker.pmman.tech:443/announce
+https://tracker.renfei.net:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn:443/announce
+https://trackers.mlsub.net:443/announce
 https://trackme.theom.nz:443/announce
 udp://amigacity.xyz:6969/announce
 udp://api.boletera.org:3074/announce
@@ -56,7 +58,6 @@ udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
-udp://free.publictracker.xyz:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
@@ -65,6 +66,7 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
+udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 udp://open.xxtor.com:3074/announce
@@ -74,7 +76,6 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
@@ -85,9 +86,9 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.leena.network:6969/announce
-udp://tracker.moeking.me:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
@@ -96,11 +97,10 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.theoks.net:6969/announce
-udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker1.bt.moack.co.kr:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
+udp://u4.trakx.crim.ist:1337/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announce
