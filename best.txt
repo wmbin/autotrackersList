@@ -28,6 +28,7 @@ https://1337.abcvg.info:443/announce
 https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abir.ga/announce
+https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -40,7 +41,6 @@ https://tracker.lilithraws.cf/announce
 https://tracker.loligirl.cn/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc/announce.php
-https://tracker.renfei.net:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp/announce
@@ -54,7 +54,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://explodie.org:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://lulz.vpndb.org:3000/announce
 udp://martin-gebhardt.eu:25/announce
@@ -78,12 +77,16 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.darkness.services:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.moeking.me:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
+udp://tracker.qu.ax:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
