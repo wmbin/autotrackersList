@@ -5,7 +5,6 @@ http://bvarf.tracker.sh:2086/announce
 http://ipv6.rer.lol:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://open.tracker.ink:6969/announce
 http://share.camoe.cn:8080/announce
 http://t.nyaatracker.com:80/announce
 http://tk.greedland.net/announce
@@ -54,6 +53,7 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://lulz.vpndb.org:3000/announce
 udp://martin-gebhardt.eu:25/announce
@@ -77,16 +77,11 @@ udp://tamas3.ynh.fr:6969/announce
 udp://thetracker.org:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://tracker.bittor.pw:1337/announce
-udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.moeking.me:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.picotorrent.one:6969/announce
-udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
