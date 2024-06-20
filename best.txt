@@ -48,9 +48,10 @@ https://trackme.theom.nz:443/announce
 udp://amigacity.xyz:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
+udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
