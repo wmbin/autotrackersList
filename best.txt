@@ -21,10 +21,10 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
+https://pybittrack.retiolus.net:443/announce
 https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abir.ga/announce
-https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -56,6 +56,7 @@ udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.demonoid.ch:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
@@ -68,6 +69,7 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.fnix.net:6969/announce
