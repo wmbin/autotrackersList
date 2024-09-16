@@ -11,7 +11,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net/announce
 http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
+http://tr.kxmp.cf:80/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dump.cl:6969/announce
 http://tracker.electro-torrent.pl/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
@@ -27,6 +29,7 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
+https://mathkangaroo.jp:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
@@ -34,6 +37,7 @@ https://tr.abir.ga/announce
 https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
+https://tracker.bjut.jp:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
@@ -83,7 +87,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
-udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -98,6 +101,5 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker.xor.st:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 wss://tracker.openwebtorrent.com:443/announce
