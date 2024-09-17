@@ -321,7 +321,6 @@ http://lima-peru.subventas.com:443/announce
 http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce.php
-http://mc.itscraftsoftware.my.id:8804/announce
 http://mediaclub.tv/announce
 http://mediaclub.tv/announce.php
 http://mediaclub.tv:80/announce
@@ -697,7 +696,6 @@ https://jvavav.com:443/announce
 https://k.avc.cx/announce.php
 https://k.avc.cx:443/announce.php
 https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
-https://mathkangaroo.jp:443/announce
 https://nyaa.tracker.wf:7777/announce
 https://open.kickasstracker.com/announce
 https://open.kickasstracker.com:443/announce
@@ -755,7 +753,6 @@ https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip/announce
 https://tracker.bangumi.zip:443/announce
-https://tracker.bjut.jp:443/announce
 https://tracker.bt-hash.com/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.bt4g.com/announce
@@ -990,7 +987,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv4.rer.lol:2710/announce
@@ -1166,6 +1162,7 @@ udp://www.torrent.eu.org:451/announce
 udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
+udp://z.mercax.com:53/announce
 udp://zecircle.xyz:6969/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
