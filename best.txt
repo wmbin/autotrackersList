@@ -24,7 +24,6 @@ http://www.wareztorrent.com/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://api.ipv4online.uk:443/announce
-https://pybittrack.retiolus.net:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
@@ -42,7 +41,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn/announce
 https://tracker.m-team.cc/announce.php
 https://tracker.tamersunion.org:443/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 https://trackme.theom.nz:443/announce
@@ -78,15 +76,15 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
-udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
+udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce

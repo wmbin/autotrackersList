@@ -839,7 +839,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.torrentsnows.com/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
@@ -854,7 +853,6 @@ https://tracker2.ctix.cn/announce
 https://tracker2.ctix.cn:443/announce
 https://trackers.mlsub.net/announce
 https://trackers.mlsub.net:443/announce
-https://trackers.run:443/announce
 https://trackme.theom.nz/announce
 https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com/announce
@@ -1018,6 +1016,7 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si/announce
@@ -1041,6 +1040,7 @@ udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
+udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
@@ -1105,7 +1105,6 @@ udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.jamesthebard.net:6969/announce
-udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -1121,7 +1120,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -1135,7 +1133,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
@@ -1143,7 +1140,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
