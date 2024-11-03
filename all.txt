@@ -786,6 +786,7 @@ https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id/announce
 https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
@@ -925,6 +926,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://82.65.115.10:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
