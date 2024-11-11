@@ -847,6 +847,7 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.torrentsnows.com/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win/announce
+https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
@@ -978,6 +979,7 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
+udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
@@ -1098,6 +1100,7 @@ udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -1129,7 +1132,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -1142,7 +1144,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
