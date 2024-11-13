@@ -710,7 +710,6 @@ https://opentracker.i2p.rocks/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
-https://p2p.azu.red:443/announce
 https://seeders-paradise.org/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://t.btcland.xyz/announce
@@ -931,6 +930,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://82.65.115.10:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -970,7 +970,6 @@ udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
-udp://canardscitrons.nohost.me:6969/announce
 udp://carr.codes:6969/announce
 udp://chouchou.top:8080/announce
 udp://concen.org:6969/announce
@@ -1132,6 +1131,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
