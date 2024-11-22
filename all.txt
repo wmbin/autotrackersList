@@ -313,7 +313,6 @@ http://jp.moeweb.pw:6969/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
-http://kiryuu-test.mywaifu.best:6969/announce
 http://li1406-230.members.linode.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 http://lima-peru.subventas.com:443/announce
@@ -984,6 +983,7 @@ udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -1035,7 +1035,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
@@ -1101,6 +1100,7 @@ udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -1116,7 +1116,8 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.istole.it:80/announce
-udp://tracker.jamesthebard.net:6969/announce
+udp://tracker.kmzs123.cn:17272/announce
+udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -1144,6 +1145,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
+udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
@@ -1151,6 +1153,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://u4.trakx.crim.ist:1337/announce
+udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
