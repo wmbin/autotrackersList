@@ -12,9 +12,7 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.electro-torrent.pl/announce
 http://tracker.gbitt.info/announce
-http://tracker.lintk.me:2710/announce
 http://tracker.moxing.party:6969/announce
-http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.tfile.co:80/announce
@@ -49,6 +47,7 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn/announce
 https://tracker.m-team.cc/announce.php
 https://tracker.moeking.me:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp/announce
@@ -63,8 +62,8 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
+udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://open.demonii.com:1337/announce
@@ -89,6 +88,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.opentrackr.org:1337/announce
