@@ -450,7 +450,6 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
-http://tr.nyacat.pw:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
@@ -847,7 +846,6 @@ https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
-https://tracker.wsaoa.eu.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
@@ -959,7 +957,6 @@ udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
-udp://brokenhelix.loseyourip.com:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
@@ -1002,6 +999,7 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -1119,10 +1117,8 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
