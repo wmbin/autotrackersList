@@ -450,7 +450,6 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
-http://tr.nyacat.pw:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
@@ -744,7 +743,6 @@ https://tr.highstar.shop/announce
 https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf:80/announce
 https://tr.nyacat.pw/announce
-https://tr.nyacat.pw:443/announce
 https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
@@ -848,6 +846,7 @@ https://tracker.tvgc.win/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
+https://tracker.zhuqiy.top:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn/announce
@@ -1000,7 +999,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -1071,6 +1069,7 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
+udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -1118,6 +1117,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -1131,6 +1131,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
+udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
