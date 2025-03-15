@@ -430,6 +430,7 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -514,6 +515,7 @@ http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
+http://tracker.ghostchu-services.top:80/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn/announce
@@ -712,6 +714,7 @@ https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://retracker.x2k.ru:443/announce
 https://seeders-paradise.org/announce
+https://sparkle.ghostchu-services.top:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
 https://t.quic.ws/announce
@@ -785,6 +788,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
+https://tracker.ghostchu-services.top:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
@@ -983,7 +987,6 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
@@ -996,7 +999,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://ftp.pet:2710/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu/announce
@@ -1010,7 +1012,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -1077,6 +1078,7 @@ udp://thetracker.org:80/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://torrent.i.ng:6969/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
@@ -1104,6 +1106,7 @@ udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
@@ -1111,6 +1114,7 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -1126,6 +1130,7 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -1146,6 +1151,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
+udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
@@ -1155,6 +1161,7 @@ udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://uploads.gamecoast.net:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
