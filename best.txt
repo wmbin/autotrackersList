@@ -9,7 +9,6 @@ http://shubt.net:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net/announce
 http://tk.greedland.net:80/announce
-http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bt4g.com:2095/announce
@@ -40,7 +39,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.ghostchu-services.top:443/announce
-https://tracker.home.kmzs123.cn:4443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
@@ -77,8 +75,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.dump.cl:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -88,6 +84,7 @@ udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.plx.im:6969/announce
+udp://tracker.qu.ax:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
@@ -100,6 +97,7 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker2.dler.org:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
