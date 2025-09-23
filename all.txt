@@ -341,6 +341,7 @@ http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
 http://mvgroup.org:2710/announce
 http://nyaa.tracker.wf:7777/announce
+http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com/announce
 http://open.acgnxtracker.com:80/announce
@@ -522,7 +523,6 @@ http://tracker.hiyj.cn/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org/announce
 http://tracker.ipv6tracker.org:80/announce
-http://tracker.ipv6tracker.ru:80/announce
 http://tracker.iro.moe/announce
 http://tracker.istole.it/announce
 http://tracker.kali.org:6969/announce
@@ -592,7 +592,6 @@ http://tracker.valete.tf:9999/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vrpnet.org:6969/announce
-http://tracker.waaa.moe:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
@@ -692,7 +691,6 @@ https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.endpot.com/announce
 https://bt.nfshost.com/announce
-https://burmese.app:443/announce
 https://carapax.net/announce
 https://carbon-bonsai-621.appspot.com/announce
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -761,7 +759,6 @@ https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.alaskantf.com:443/announce
@@ -986,6 +983,7 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
+udp://burmese.app:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carr.codes:6969/announce
 udp://chouchou.top:8080/announce
@@ -1009,9 +1007,9 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://glotorrents.pw:6969/announce
-udp://hificode.in:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
+udp://ibksturm.synology.me:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
@@ -1023,7 +1021,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -1040,8 +1037,10 @@ udp://new-line.net:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
@@ -1059,6 +1058,7 @@ udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
+udp://public.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
@@ -1107,6 +1107,7 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
@@ -1124,6 +1125,7 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.healthcareindia.store:1337/announce
+udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
