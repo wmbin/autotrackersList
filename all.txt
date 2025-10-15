@@ -353,6 +353,7 @@ http://open.nyap2p.com:8080/announce
 http://open.touki.ru/announce
 http://open.touki.ru/announce.php
 http://open.touki.ru:80/announce.php
+http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
 http://open.trackerlist.xyz:80/announce
@@ -459,6 +460,7 @@ http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
+http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -486,7 +488,6 @@ http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
 http://tracker.bz:80/announce
 http://tracker.ccc.de/announce
-http://tracker.chaoz.li:2710/announce
 http://tracker.computel.fr/announce
 http://tracker.computel.fr:80/announce
 http://tracker.coppersurfer.site:2710/announce
@@ -682,9 +683,13 @@ http://www.zone-torrent.net/announce.php
 http://www.zone-torrent.net:80/announce.php
 http://xtremewrestlingtorrents.net/announce.php
 http://xtremewrestlingtorrents.net:80/announce.php
+https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
+https://2.tracker.eu.org:443/announce
+https://3.tracker.eu.org:443/announce
 https://337hhh.xyz/announce
+https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io/announce
 https://abir0dev.github.io:443/announce
@@ -1013,8 +1018,10 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
+udp://hificode.in:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
+udp://ibksturm.synology.me:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -1133,7 +1140,6 @@ udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
-udp://tracker.iperson.xyz:6969/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
@@ -1178,6 +1184,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
