@@ -605,7 +605,6 @@ http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xiaoduola.xyz:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
@@ -806,6 +805,7 @@ https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
+https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
@@ -1006,12 +1006,12 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
+udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -1021,7 +1021,6 @@ udp://freedom.1776.ga:6969/announce
 udp://hificode.in:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
-udp://ibksturm.synology.me:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
