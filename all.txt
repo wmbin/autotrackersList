@@ -605,6 +605,7 @@ http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
@@ -1119,6 +1120,7 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
@@ -1158,11 +1160,11 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
+udp://tracker.t-1.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
-udp://tracker.tnl.one:8000/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
