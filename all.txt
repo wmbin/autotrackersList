@@ -343,6 +343,7 @@ http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
 http://mvgroup.org:2710/announce
+http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com/announce
@@ -528,6 +529,7 @@ http://tracker.hiyj.cn/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org/announce
 http://tracker.ipv6tracker.org:80/announce
+http://tracker.ipv6tracker.ru:80/announce
 http://tracker.iro.moe/announce
 http://tracker.istole.it/announce
 http://tracker.kali.org:6969/announce
@@ -800,7 +802,6 @@ https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
-https://tracker.guguan.dpdns.org:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
@@ -1014,7 +1015,7 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://hificode.in:6969/announce
+udp://glotorrents.pw:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu/announce
@@ -1111,7 +1112,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
-udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
@@ -1134,6 +1134,7 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -1150,7 +1151,6 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
