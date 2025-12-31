@@ -17,6 +17,7 @@ http://tracker.electro-torrent.pl/announce
 http://tracker.gbitt.info/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
 http://www.all4nothin.net:80/announce.php
@@ -31,6 +32,7 @@ https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
+https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.alaskantf.com:443/announce
@@ -56,6 +58,7 @@ https://tracker1.520.jp:443/announce
 https://trackme.theom.nz:443/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -73,11 +76,15 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.bittor.pw:1337/announce
+udp://tracker.bluefrog.pw:2710/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -89,7 +96,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
