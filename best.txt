@@ -7,6 +7,7 @@ http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.tracker.cl:1337/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
@@ -60,7 +61,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
-udp://open.tracker.cl:1337/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.lanta.me:2710/announce
@@ -69,11 +69,10 @@ udp://torrentclub.online:54123/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
+udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -88,6 +87,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
+udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.to:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
