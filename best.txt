@@ -6,6 +6,7 @@ http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.tracker.cl:1337/announce
 http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
@@ -13,8 +14,9 @@ http://tracker.electro-torrent.pl/announce
 http://tracker.gbitt.info/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.skyts.net:6969/announce
+http://tracker.wepzone.net:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://tracker2.dler.org:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
 http://www.all4nothin.net:80/announce.php
@@ -28,11 +30,8 @@ https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
-https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.nyacat.pw:443/announce
-https://tr.zukizuki.org:443/announce
-https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
@@ -54,7 +53,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
@@ -64,13 +62,15 @@ udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.lanta.me:2710/announce
+udp://run.publictracker.xyz:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.1h.is:1337/announce
-udp://tracker.alaskantf.com:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -94,4 +94,5 @@ udp://tracker.waaa.moe:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://zer0day.ch:1337/announce
 wss://tracker.openwebtorrent.com:443/announce
