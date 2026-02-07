@@ -1,7 +1,6 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
-http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -312,7 +311,6 @@ http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
@@ -397,7 +395,6 @@ http://seeders-paradise.org/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -426,7 +423,6 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -469,7 +465,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -790,6 +785,7 @@ https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.iochimari.moe:443/announce
+https://tracker.iperson.xyz:443/announce
 https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
@@ -1018,12 +1014,14 @@ udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://new-line.net:6969/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
