@@ -28,7 +28,6 @@ https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
-https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -49,15 +48,14 @@ https://tracker1.520.jp:443/announce
 https://trackme.theom.nz:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
-udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.lanta.me:2710/announce
 udp://run.publictracker.xyz:6969/announce
@@ -69,6 +67,8 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.dler.org:6969/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
