@@ -203,6 +203,7 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -312,7 +313,6 @@ http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
@@ -393,18 +393,16 @@ http://rstracker.ohys.net:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
-http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
-http://servandroidkino.ru:80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
 http://siambit.com:80/announce.php
 http://siambit.org/announce.php
 http://smurfsoft.com:6969/announce
+http://speedtest.iperson.xyz:6969/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
 http://t.jaekr.sh:6969/announce
@@ -427,7 +425,6 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -451,8 +448,6 @@ http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
-http://tr.nyacat.pw:80/announce
-http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -758,6 +753,7 @@ https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
+https://tr.zukizuki.org:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
@@ -785,7 +781,6 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
@@ -988,7 +983,6 @@ udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -997,7 +991,6 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
-udp://ibksturm.synology.me:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -1022,7 +1015,9 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://navegador.click:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.madtia.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.madtia.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -1160,7 +1155,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
