@@ -1,6 +1,7 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
+http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -482,6 +483,7 @@ http://tracker.computel.fr:80/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.corpscorp.online/announce
 http://tracker.corpscorp.online:80/announce
+http://tracker.darkness.services:6969/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
@@ -526,7 +528,6 @@ http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.memelords.xyz:80/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
@@ -817,6 +818,7 @@ https://tracker.mlsub.net/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
+https://tracker.moeking.me:443/announce
 https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 https://tracker.moxing.party:6969/announce
@@ -825,7 +827,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
 https://tracker.nitrix.me:443/announce
-https://tracker.novy.vip:443/announce
 https://tracker.nyaa.tk/announce
 https://tracker.opentracker.se/announce
 https://tracker.opentracker.se:443/announce
@@ -986,7 +987,6 @@ udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -1018,7 +1018,7 @@ udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://new-line.net:6969/announce
-udp://node02.madtia.cc:42069/announce
+udp://node01.madtia.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -1162,7 +1162,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
 udp://uabits.today:6990/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
