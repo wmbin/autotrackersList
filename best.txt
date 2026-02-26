@@ -13,6 +13,7 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.electro-torrent.pl/announce
 http://tracker.gbitt.info/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.waaa.moe:6969/announce
@@ -29,6 +30,7 @@ https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
+https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -65,12 +67,14 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.iperson.xyz:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.sharebro.in:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
