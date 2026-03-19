@@ -30,6 +30,7 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.nyacat.pw:443/announce
+https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
@@ -72,8 +73,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.dler.org:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
