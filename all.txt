@@ -205,6 +205,7 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -424,6 +425,7 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -597,6 +599,7 @@ http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.com:80/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -690,7 +693,6 @@ https://cernet-tracker.appspot.com:443/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://cny.fan:443/announce
-https://colibri.parrot.run:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -728,7 +730,6 @@ https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com/announce.php
@@ -970,7 +971,6 @@ udp://black-bird.ynh.fr:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
-udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
@@ -989,6 +989,7 @@ udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
@@ -1079,7 +1080,6 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
@@ -1111,6 +1111,7 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hismz.cn:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -1134,6 +1135,7 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -1143,7 +1145,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
@@ -1160,6 +1161,7 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
