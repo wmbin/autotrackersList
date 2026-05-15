@@ -11,6 +11,8 @@ http://tracker.electro-torrent.pl/announce
 http://tracker.gbitt.info/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker3.ctix.cn:8080/announce
@@ -25,7 +27,6 @@ https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
-https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce
@@ -56,8 +57,8 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker.004430.xyz:1337/announce
 udp://tracker.1h.is:1337/announce
+udp://tracker.auctor.tv:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -73,8 +74,10 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.startwork.cv:1337/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
