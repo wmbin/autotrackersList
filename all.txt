@@ -205,6 +205,7 @@ http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
 http://announce.sktorrent.eu:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -338,7 +339,6 @@ http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
 http://mvgroup.org:2710/announce
-http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com/announce
@@ -464,7 +464,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -540,7 +539,6 @@ http://tracker.openzim.org/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.pimp4003.net/announce
-http://tracker.plx.im:6969/announce
 http://tracker.pow7.com/announce
 http://tracker.pow7.com:80/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -707,7 +705,6 @@ https://opentracker.i2p.rocks/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
-https://pybittrack.retiolus.net:443/announce
 https://seeders-paradise.org/announce
 https://t.213891.xyz:443/announce
 https://t.btcland.xyz/announce
@@ -750,7 +747,6 @@ https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.7471.top:443/announce
 https://tracker.adgk.net:443/announce
@@ -972,7 +968,6 @@ udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carr.codes:6969/announce
 udp://chouchou.top:8080/announce
-udp://coeus.torrentonline.cc:42069/announce
 udp://concen.org:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
@@ -1110,7 +1105,6 @@ udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.ilibr.org:80/announce
@@ -1129,6 +1123,7 @@ udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
@@ -1138,6 +1133,7 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackerfix.com:80/announce
