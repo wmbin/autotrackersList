@@ -8,12 +8,14 @@ http://tk.greedland.net/announce
 http://torrentsmd.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 http://tracker.electro-torrent.pl/announce
 http://tracker.gbitt.info/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.opentrackr.org:1337/announce
+http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker3.ctix.cn:8080/announce
 http://trackme.theom.nz:80/announce
@@ -50,6 +52,7 @@ https://trackme.theom.nz:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://mail.segso.net:6969/announce
@@ -74,7 +77,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
