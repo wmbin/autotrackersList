@@ -444,6 +444,7 @@ http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
+http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -813,7 +814,6 @@ https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nyaa.tk/announce
-https://tracker.onetracker.net:443/announce
 https://tracker.opentracker.se/announce
 https://tracker.opentracker.se:443/announce
 https://tracker.parrotlinux.org/announce
@@ -989,7 +989,6 @@ udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
-udp://kolanopentracker.airdns.org:3392/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
 udp://ln.mtahost.co:6969/announce
@@ -1065,6 +1064,7 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
+udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -1092,6 +1092,7 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
@@ -1112,6 +1113,7 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -1123,7 +1125,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrents.observer:80/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
