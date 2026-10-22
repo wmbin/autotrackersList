@@ -28,6 +28,7 @@ https://tp.m-team.cc:443/announce.php
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
+https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tracker.7471.top:443/announce
@@ -60,7 +61,6 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.lain.moscow:6969/announce
 udp://p4p.arenabg.com:1337/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
